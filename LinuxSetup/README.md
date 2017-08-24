@@ -42,15 +42,15 @@ windows系统下安装Linux双系统
 ---
 ## 安装步骤（注：由于本人在安装Linux的过程中有些图并没有截到，文中使用的某些图片信息是本人在其他网站搜集并按照本人的安装经验整理的，图所示的步骤没有任何问题，但是图中的数据以及所使用的软件版本与我所介绍的可能有所不同，请按照步骤执行，图仅供参考；）
 ### 1. 磁盘分区：
-> 1. 进入系统的磁盘管理。进入磁盘管理发方式有两种。一种是通过电脑属性，进入磁盘管理。第二种是直接右键点击windows键（windows+X）选择磁盘管理。
+> 1. 进入系统的磁盘管理。进入磁盘管理发方式有两种。一种是通过电脑属性，进入磁盘管理。第二种是直接右键点击windows键（windows+X）选择磁盘管理。  
 ![image](http://note.youdao.com/yws/api/personal/file/0F500923D1D54891A5919581381E5C5F?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 ![image](http://note.youdao.com/yws/api/personal/file/61BD9359AEA04ED9A5B245E431104AB4?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 ![image](http://note.youdao.com/yws/api/personal/file/F75030217B2C49DDB1A2A893B03BA482?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
-> 2. 进入磁盘管理之后，我们可以看到我的分区情况。然后选择你需要进行分区的磁盘，点击右键，选择“压缩卷”，如图示;
+> 2. 进入磁盘管理之后，我们可以看到我的分区情况。然后选择你需要进行分区的磁盘，点击右键，选择“压缩卷”，如图示;  
 ![image](http://note.youdao.com/yws/api/personal/file/99245A10395B4E2AA45A83D0DCE7D7EB?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
-> 3. 系统会自动的查询压缩空间;
+> 3. 系统会自动的查询压缩空间;  
 ![image](http://note.youdao.com/yws/api/personal/file/831AD1D375064A38A5E0D679F0060566?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
-> 4. 然后我们选择选择好需要压缩空间的大小。点击压缩。（这里我压缩出一个大概50G的空间）
+> 4. 然后我们选择选择好需要压缩空间的大小。点击压缩。（这里我压缩出一个大概50G的空间）  
 ![image](http://note.youdao.com/yws/api/personal/file/1C43F4525138403E81A5FDECBF010166?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 ![image](http://note.youdao.com/yws/api/personal/file/429C7E9BFC1E4DCC82F7E2F8576CCDBB?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 ---
