@@ -111,10 +111,10 @@ swap：交换分区，即Linux系统的虚拟内存，建议是物理内存的2�
 重启系统，进入Windows完成最后的引导设置。
 ---
 ### 6. EasyBCD引导Ubuntu
-> 进入EasyBCD，选择“添加新条目”，选择Linux/BSD操作系统，在“驱动器”栏目选择接近200M的Linux分区：
+> 进入EasyBCD，选择“添加新条目”，选择Linux/BSD操作系统，在“驱动器”栏目选择接近200M的Linux分区：  
 ![image](http://upload-images.jianshu.io/upload_images/671333-ddffde46eed192e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 ![image](http://upload-images.jianshu.io/upload_images/671333-f3df520a5db6ab7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-完成条目添加后，重启电脑，会发现Windows10和Ubuntu的双系统已经完成安装，祝玩得开心！
+完成条目添加后，重启电脑，会发现Windows10和Ubuntu的双系统已经完成安装，祝玩得开心！  
 ![image](http://upload-images.jianshu.io/upload_images/671333-b778f990a9319307.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](http://upload-images.jianshu.io/upload_images/671333-c221037a9a4731f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
