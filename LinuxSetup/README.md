@@ -32,7 +32,7 @@ windows系统下安装Linux双系统
 ![image](http://note.youdao.com/yws/api/personal/file/B3B5DF62F9B04BE1897C9F4A63D25A7F?method=download&shareKey=3096833220dd5e4745eaa210e6a433f6)
 ---
 - Linux官网下载：进入Linux官网https://www.linux.org/
-> ![image](http://note.youdao.com/yws/api/personal/file/F9CA2FFD448446C7AF1653788F3971A1?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
+> ![image](http://note.youdao.com/yws/api/personal/file/F9CA2FFD448446C7AF1653788F3971A1?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)  
 最上方找到DOWNLOAD LINUX点击进入；
 ![image](http://note.youdao.com/yws/api/personal/file/A40FCAE57533470A814B17EAE24E4814?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 在Download Linux区域找到ubuntu（你所需要的版本）点击进入；
