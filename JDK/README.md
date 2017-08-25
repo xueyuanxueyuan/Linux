@@ -1,7 +1,7 @@
 # Ubuntu安装JDK
 ### 1. 准备源码包
-> 1. 首先到官网下载jdk，  
-  http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html，  
+> 1. 首先到官网下载JDK,
+  http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html，  
 我下载jdk-8u25-linux-x64.tar.gz，下载到主目录  
 ---
 ### 2. 解压源码包  
@@ -18,7 +18,7 @@ sudo tar xvf jdk-8u25-linux-x64.tar.gz
 sudo rm jdk-8u25-linux-x64.tar.gz  
 
 ---
-### 3. 设置jdk环境变量  
+### 3. 设置JDK环境变量  
 > 这里采用全局设置方法，它是是所有用户的共用的环境变量  
 $sudo gedit ~/.bashrc  
 如下图所示：  
