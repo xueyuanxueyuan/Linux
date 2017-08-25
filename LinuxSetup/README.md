@@ -18,16 +18,16 @@ windows系统下安装Linux双系统
 ![image](http://note.youdao.com/yws/api/personal/file/B69EBB9548B446B1878BEC36CC0F713D?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 > 找到本文导航，然后找你想要的Linux版本
 > 
-> 这里以ubuntu 17.04为例：
+> 这里以Ubuntu 17.04为例：
 > 
 > 点击到指定位置然后根据需要选择下载；
 ![image](http://note.youdao.com/yws/api/personal/file/0C2EA475E414465A9C0A9C58CA0552C4?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 ![image](http://note.youdao.com/yws/api/personal/file/C00AB9FB6F0347379A0231EAF0EE39FB?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
 >
-> 点击上面的连接下载ubuntu。
+> 点击上面的连接下载Ubuntu。
 ---
-- ubuntu 官网下载:
-进入ubuntu中文官网http://cn.ubuntu.com/
+- Ubuntu 官网下载:
+进入Ubuntu中文官网http://cn.ubuntu.com/
 > 点击最上方的下载，进入下载页面，找到你所需要的版本进行下载。
 ![image](http://note.youdao.com/yws/api/personal/file/B3B5DF62F9B04BE1897C9F4A63D25A7F?method=download&shareKey=3096833220dd5e4745eaa210e6a433f6)
 ---
