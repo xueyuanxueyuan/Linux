@@ -13,7 +13,7 @@
 ### 3. 配置环境
  
 
-         tomcat7需要在两个地方配置环境。打开终端，操作如下：
+         Tomcat7需要在两个地方配置环境。打开终端，操作如下：
          1）打开系统配置文件，加入环境变量
 
           $:sudo gedit /etc/profile
@@ -32,13 +32,13 @@
          $:cd /home/xu/apache-tomcat-7.0.32/bin
          $:sudo gedit catalina.sh
 
-         这时tomcat7自身配置文件就打开了。我们找到  cygwin=false这一句，然后在这一句上面加入:
+         这时Tomcat7自身配置文件就打开了。我们找到  cygwin=false这一句，然后在这一句上面加入:
 
          JAVA_HOME=/home/xu/Java/jdk1.6.0_35
 
          保存退出即可。
-### 4. 运行tomcat7
-         进入tomcat的bin目录，执行下列语句：
+### 4. 运行Tomcat7
+         进入Tomcat的bin目录，执行下列语句：
          启动tomcat的命令：
 
          $sudo ./startup.sh
@@ -46,7 +46,7 @@
          关闭tomcat的命令：
 
          $sudo ./shutdown.sh
-### 5.检验tomcat7是否在运行
+### 5.检验Tomcat7是否在运行
          $: ps -ef|grep tomcat
          如果出现有tomcat的进程，那就是在运行了。
          打开浏览器，在址址栏输入：http://localhost:8080
