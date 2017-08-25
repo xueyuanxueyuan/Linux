@@ -56,7 +56,7 @@
          
          $sudo ./shutdown.sh
          
-### 5.检验Tomcat7是否在运行
+### 5. 检验Tomcat7是否在运行
          $: ps -ef|grep tomcat
          如果出现有Tomcat的进程，那就是在运行了。
          
