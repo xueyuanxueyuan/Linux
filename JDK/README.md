@@ -1,6 +1,6 @@
 # Ubuntu安装JDK
 ### 1. 准备源码包
-> 1. 首先到官网下载JDK,
+> 1. 首先到官网下载JDK,  
   http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html，  
 我下载jdk-8u25-linux-x64.tar.gz，下载到主目录  
 ---
