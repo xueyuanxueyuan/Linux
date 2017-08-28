@@ -13,4 +13,22 @@ https://www.eclipse.org/downloads/eclipse-packages/?osType=linux&release=undefin
 ---
 ### 2. 创建Eclipse快捷方式
 > 1. 在终端执行如下命令：
+cd 桌面  
+sudo touch eclipse.desktop  
+sudo vim eclipse.desktop  
+输入以下内容：  
 
+        [Desktop Entry]  
+        Encoding=UTF-8   
+        Name=eclipse   
+        Comment=Eclipse IDE   
+        Exec=/usr/local/eclipse/eclipse_SDK/eclipse   
+        Icon=/usr/local/eclipse/eclipse_SDK/icon.xpm   
+        Terminal=false   
+        StartupNotify=true   
+        Type=Application  
+        Categories=Application;Development;    
+> Exec=/usr/local/eclipse/eclipse_SDK/eclipseIcon=/usr/local/eclipse/eclipse_SDK/icon.xpm 这个地方要修改为你的eclipse安装目录。  
+保存。  
+执行:sudo chmod u+x eclipse.desktop 将其变为可执行文件.  
+---
