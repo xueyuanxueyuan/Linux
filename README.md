@@ -13,4 +13,4 @@ Windows 下安装Linux系统及Linux系统常用软件的安装
 - [Xmind](https://github.com/xueyuanxueyuan/Linux/tree/master/Xmind)  
 QQ :1663914023  
 邮箱:1663914023@qq.com  
-  ![image](http://a3.qpic.cn/psb?/V13w0NWx39rRiL/vZIT8WEVZ91j7UozZV9uxt4qkep3I8SjVc*aD6JhShk!/m/dEIAAAAAAAAAnull&bo=3gJ3AAAAAAARB5s!&rf=photolist&t=5)
+  ![image](http://note.youdao.com/yws/api/personal/file/FF0805942FC448D9A91B48B461E95D13?method=download&shareKey=434ce187a9e7dd9676364c77388eeb12)
