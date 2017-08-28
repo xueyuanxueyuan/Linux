@@ -1,7 +1,7 @@
 # LinuxSetup
-windows系统下安装Linux双系统
+Windows系统下安装Linux双系统
 ## 工具
-> - 4g左右的U盘；
+> - 4G左右的U盘；
 > - 预备做U盘系统盘的软件和设置开机引导项的软件：软碟通，EasyBCD；
 > - Linux系统的镜像文件；
 ## 工具下载
