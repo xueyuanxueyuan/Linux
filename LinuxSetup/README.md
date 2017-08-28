@@ -68,7 +68,7 @@ Windows系统下安装Linux双系统
 ### 3. 注意备份电脑重要数据，避免意外；
 ---
 ### 4. 设置BIOS：
-> - 1. 插入U盘，重启笔记本，启动时按F2(有的电脑是按F12，Del，Esc等等)，进入Bios界面，进入BIOS SETUP后，关闭secure boot；
+> - 1. 插入U盘，重启笔记本，启动时按F2(有的电脑是按F12，Del，Esc等等有的电脑需要按住Fn键)，进入Bios界面，进入BIOS SETUP后，关闭secure boot；
 > - 2. 在Boot项里选择USB HDD为首项；
 > - 3. 保存设置并离开。
 ![image](http://note.youdao.com/yws/api/personal/file/B281D4811CBC4DDCA194FBD11B659A03?method=download&shareKey=ba2ff90dc1e2fc0776e01358cf78f963)
