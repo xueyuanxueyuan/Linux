@@ -11,6 +11,8 @@ Windows 下安装Linux系统及Linux系统常用软件的安装
 - [Oracle](https://github.com/xueyuanxueyuan/Linux/tree/master/Oracle)
 - [Tomcat](https://github.com/xueyuanxueyuan/Linux/tree/master/Tomcat)
 - [Xmind](https://github.com/xueyuanxueyuan/Linux/tree/master/Xmind)  
+- [Ubuntu常用安装软件的方法](https://github.com/xueyuanxueyuan/Linux/tree/master/UbuntuFun)    
+- [Ubuntu常用命令](https://github.com/xueyuanxueyuan/Linux/tree/master/Ubuntu-)     
 QQ :1663914023  
 邮箱:1663914023@qq.com  
   ![image](http://note.youdao.com/yws/api/personal/file/FF0805942FC448D9A91B48B461E95D13?method=download&shareKey=434ce187a9e7dd9676364c77388eeb12)
